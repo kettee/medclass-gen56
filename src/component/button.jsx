@@ -156,15 +156,15 @@ export const LEADERS = [
 
 
 export const GALLERY = [
-  { emoji: "🔬", label: "ບໍລິຈາກເລືອດ", bg: "#dbeafe", cover: DNB11, Images: [
+  {  label: "ບໍລິຈາກເລືອດ", bg: "#dbeafe", cover: DNB11, Images: [
     DNB11, DNB, DNB1, DNB2, DNB3, DNB4, DNB5, DNB6, DNB7, DNB8, DNB9, DNB10, DNB12, DNB13, DNB14, DNB15, DNB16
   ] },
-  { emoji: "🏥", label: "ກິດຈະກຳນອກຫລັກສູດ", bg: "#d1fae5", cover: Ca, Images: [ Ca1, Ca2, Ca3, Ca4] },
-  { emoji: "🎓", label: "ວັນຄູ", bg: "#ede9fe", cover: Ca4 },
-  { emoji: "⚽", label: "ວັນກຳມະກອນ", bg: "#cffafe", cover: Ca5, Images: [Ca5, Ca6] },
-  { emoji: "🏆", label: "ກຸ່ມພາສາອັງກິດ", bg: "#fef3c7", cover:egA, Images: [egA, egA1, egA2] },
+  {  label: "ກິດຈະກຳນອກຫລັກສູດ", bg: "#d1fae5", cover: Ca, Images: [ Ca1, Ca2, Ca3, Ca4] },
+  {  label: "ວັນຄູ", bg: "#ede9fe", cover: Ca4 },
+  {  label: "ວັນກຳມະກອນ", bg: "#cffafe", cover: Ca5, Images: [Ca5, Ca6] },
+  {  label: "ກຸ່ມພາສາອັງກິດ", bg: "#fef3c7", cover:egA, Images: [egA, egA1, egA2] },
   
-  { emoji: "⚽", label: "ຜົນງານຂອງນັກສຶກສາ", bg: "#cffafe",cover:Pfm, Images: [Pfm, Pfm1, Pfm2] },
+  {  label: "ຜົນງານຂອງນັກສຶກສາ", bg: "#cffafe",cover:Pfm, Images: [Pfm, Pfm1, Pfm2] },
  
 ];
 
