@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'MyFont';
+  src: url('../src/assets/fonts/laoluang.ttf') format('truetype');
+}
+
+* {
+  font-family: 'laoluang', sans-serif;
+}
