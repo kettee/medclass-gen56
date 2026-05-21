@@ -338,6 +338,7 @@ export default function App() {
         @font-face {
           font-family: 'LaoLuang';
           src: url('${laoluangFont}') format('truetype');
+          unicode-range: U+0E80-0EFF;
         }
         * { font-family: 'LaoLuang', 'Noto Sans Lao', 'Arial', sans-serif; }
       `}</style>
