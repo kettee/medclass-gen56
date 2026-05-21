@@ -344,7 +344,7 @@ export default function App() {
       `}</style>
       <Loader done={loaded} />
       <Navbar />
-      <main style={{ fontFamily: "'Arial','laoluang','Noto Sans Lao',"sans-serif" }}>
+      <main style={{ fontFamily: "'Arial','laoluang','Noto Sans Lao',sans-serif" }}>
         <Hero />
         <About />
         <Program />
