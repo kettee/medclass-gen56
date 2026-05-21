@@ -338,13 +338,13 @@ export default function App() {
         @font-face {
           font-family: 'LaoLuang';
           src: url('${laoluangFont}') format('truetype');
-          unicode-range: U+0E80-0EFF;
+          unicode-range: U+0E80-0EFF, U+25CC;
         }
         * { font-family: 'LaoLuang', 'Noto Sans Lao', 'Arial', sans-serif; }
       `}</style>
       <Loader done={loaded} />
       <Navbar />
-      <main style={{ fontFamily: "'laoluang','Noto Sans Lao', 'Arial',sans-serif" }}>
+      <main style={{ fontFamily: "'Arial','laoluang','Noto Sans Lao',"sans-serif" }}>
         <Hero />
         <About />
         <Program />
