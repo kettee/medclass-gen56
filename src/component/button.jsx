@@ -340,7 +340,7 @@ export default function App() {
           src: url('${laoluangFont}') format('truetype');
           unicode-range: U+0E80-0EFF, U+25CC;
         }
-        * { font-family: 'LaoLuang', 'Noto Sans Lao', 'Arial', sans-serif; }
+        * { font-family: 'Arial','LaoLuang', 'Noto Sans Lao', sans-serif; }
       `}</style>
       <Loader done={loaded} />
       <Navbar />
